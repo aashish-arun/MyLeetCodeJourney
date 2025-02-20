@@ -1,5 +1,5 @@
 # My LeetCode Journey
-    [Start Date: 2025|02|10] [Total Time: 0000 hr 54 mins] [Finish Date: 2025|MM|DD]
+    [Start Date: 2025|02|10] [Total Time: 0001 hr 26 mins] [Finish Date: 2025|MM|DD]
     Used Language(s): Python
 
 ## Solved Questions
@@ -12,6 +12,10 @@
     [Start Date: 2025|02|11] [Total Time: 0000 hr 24 mins] [Finish Date: 2025|02|11]
     Used Language(s): Python
 
-### [0001. Two Sum](https://leetcode.com/problems/two-sum/description/)
+### [0001. Two Sum](https://leetcode.com/problems/two-sum/)
     [Start Date: 2025|02|12] [Total Time: 0000 hr 21 mins] [Finish Date: 2025|02|12]
+    Used Language(s): Python
+
+### [0049. Group Anagrams](https://leetcode.com/problems/group-anagrams/)
+    [Start Date: 2025|02|19] [Total Time: 0000 hr 32 mins] [Finish Date: 2025|02|19]
     Used Language(s): Python
