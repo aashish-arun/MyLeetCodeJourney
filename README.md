@@ -1,5 +1,5 @@
 # My LeetCode Journey
-    [Start Date: 2025|02|10] [Total Time: 0001 hr 26 mins] [Finish Date: 2025|MM|DD]
+    [Start Date: 2025|02|10] [Total Time: 0002 hr 01 mins] [Finish Date: 2025|MM|DD]
     Used Language(s): Python
 
 ## Solved Questions
@@ -18,4 +18,8 @@
 
 ### [0049. Group Anagrams](https://leetcode.com/problems/group-anagrams/)
     [Start Date: 2025|02|19] [Total Time: 0000 hr 32 mins] [Finish Date: 2025|02|19]
+    Used Language(s): Python
+
+### [0347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
+    [Start Date: 2025|02|24] [Total Time: 0000 hr 35 mins] [Finish Date: 2025|02|24]
     Used Language(s): Python
